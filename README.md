@@ -7,8 +7,8 @@
                 <a href="https://twitter.com/iustinpuiu" target="_blank"><img src="https://puiustin.com/twitter.png" width="100" alt="Twitter"/></a>
                 <a href="https://instagram.com/puiustin" target="_blank"><img src="https://puiustin.com/instagram.png" width="100" alt="Instagram"/></a>
                 <a href="https://discord.com/users/209572362809638913" target="_blank"><img src="https://puiustin.com/discord.png" width="100" alt="Discord"/></a>
-                <a href="https://linkedin.com/in/puiustin" target="_blank"><img src="https://puiustin.com/linkedin.png" width="100" alt="LinkedIn"/></a>
                 <a href="https://facebook.com/puiustin" target="_blank"><img src="https://puiustin.com/facebook.png" width="100" alt="Facebook"/></a>
+                      <a href="https://linkedin.com/in/puiustin" target="_blank"><img src="https://puiustin.com/linkedin.png" width="100" alt="LinkedIn"/></a>
 </p>
 
 <!--
